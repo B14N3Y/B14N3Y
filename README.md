@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @B14N3Y
-- 👀 I’m interested in learning Software Development
+- 👋 Hi, I’m Bobby
+- 👀 I’m interested in speaking to Software Developers
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me ... https://www.linkedin.com/in/bobby-blaneytr/
 
